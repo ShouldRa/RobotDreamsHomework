@@ -1,0 +1,2 @@
+Change working dir(use anaconda prompt):
+jupyter notebook --notebook-dir="d:\\Data\\Education\\Python\\RobotDreams\\"
